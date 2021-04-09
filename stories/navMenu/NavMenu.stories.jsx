@@ -20,7 +20,7 @@ const Template = (args) => <NavMenu {...args} />
 
 export const NavMenuStory = Template.bind({});
 NavMenuStory.args = {
-  currentMenuItem: 'contacts'
+  currentMenuItem: 'lmarkt'
 }
 
 
