@@ -10,7 +10,7 @@
 }
 
 .my-contacts__photo {
-  background: url(./img/avatar.png) center/contain no-repeat;
+  background: url(./img/avatar.jpg) center/contain no-repeat;
   border-radius: 2rem;
   box-shadow: 0px 5px 10px;
   height: 50rem;
